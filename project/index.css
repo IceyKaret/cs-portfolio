@@ -1,0 +1,45 @@
+
+        ul {
+            display: inline-block;
+            align: center
+        }
+        .box1{
+            display: inline-block;
+            padding: 50px;
+        }
+        .navbar{
+       
+            text-align:center
+        }
+        .navbar a {
+            background-color: rgb(169,169,250);
+            list-style: none;
+            color:white;
+            border:2px solid white;
+            display:inline-block;
+            padding: 5px;
+            font-size: 23px;
+            border-radius: 15px;
+        }
+        .navbar li {
+            list-style:none;
+        }
+        .navbar a:hover{
+            background-color:grey;
+        }
+        .videogame {
+            border:2px solid grey;
+            padding:2px;
+        }
+        body {
+            Font-family:Arial;
+            background-image: url("http://www.access4.eu/_media/australia_hg.jpg");
+            background-attachment: fixed;
+            color: rgb(250,250,240);
+        }
+        .title {
+            text-decoration: underline;
+        }
+        p {
+            
+        }

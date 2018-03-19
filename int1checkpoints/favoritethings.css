@@ -1,0 +1,37 @@
+  p{
+            border-style:dashed;
+            border-width:2px;
+            padding:50px;
+            position: static;
+           
+           ;
+        } 
+  
+        h1{
+            color: rgb(255,255,255);
+                        font-size: 300%
+                        
+
+        }
+        h2{
+            color: rgb(255,255,255);
+            font-size: 300% }
+        body{
+            background-image: url("http://samsung-wallpapers.com/uploads/allimg/130422/1-130422233957.jpg");
+            background-attachment: fixed;   
+            
+        }
+        p{
+            color: rgb(255,255,255); 
+        }
+        p{
+                        font-size: 200%
+        }
+        img{
+            margin: 1px auto;
+            display: block;
+            border-style:solid;
+            border-width:2px;
+            border-color: white;
+        }
+       

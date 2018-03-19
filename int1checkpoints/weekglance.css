@@ -1,0 +1,16 @@
+    table, th, td{
+        border: 1px solid white;
+        color:white;
+    }
+    body{
+        background-image:black;
+    }
+    h1{
+        color:white;
+    }
+    h2{
+        color:white;
+    }
+    ul{
+        color:white;
+    }
